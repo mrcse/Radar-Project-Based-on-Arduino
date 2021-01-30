@@ -8,5 +8,5 @@
 4. Open Processing Tool
 5. Open .pde file given in Redar Folder in Processing Tool
 6. Set COM port and run
-7. Enjoy!!
+7. Enjoy!! <br>
 for more info about this project please look Project Report.pdf file
